@@ -6,7 +6,7 @@ langchain-anthropic
 langchain-huggingface
 python-dotenv
 pydantic
-ddgs
+duckduckgo-search
 pyowm
 faiss-cpu
 sentence-transformers
